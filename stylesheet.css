@@ -1,0 +1,58 @@
+html {
+  background: #fafafa;
+}
+body {
+  font-family: Hack, monospace;
+  color: #454545;
+  font-size: 16px;
+  margin: 2em auto;
+  display: flex;
+  flex-direction: row;
+  padding: 1em;
+  line-height: 1.4;
+  justify-content: center;
+}
+
+.color1 {
+  color: #173f5f;
+}
+.color2 {
+  color: #20639b;
+}
+.color3 {
+  color: #3caea3;
+}
+.color4 {
+  color: #f9bf00;
+}
+.color5 {
+  color: #ed553b;
+}
+
+header,
+footer,
+section {
+  text-align: center;
+}
+
+table {
+  text-align: left;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+}
+
+h1 {
+  font-size: 20px;
+}
